@@ -802,9 +802,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   computeShader: {fileID: 7200000, guid: 2ddb446358997de40ab9226a2822559a, type: 3}
-  material: {fileID: 2100000, guid: 72f3d410194884443b5522d53187aff9, type: 2}
+  material: {fileID: 2100000, guid: fe060ec02ee4f49438f82fe6068393f8, type: 2}
   mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
-  resolution: 200
+  resolution: 1000
   function: 4
   transitionMode: 0
   functionDuration: 1
