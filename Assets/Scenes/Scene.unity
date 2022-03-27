@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a1f69d2451fb04f4db70f798a44fca23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  depth: 8
+  depth: 6
   mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
   leafMesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
   material: {fileID: 2100000, guid: 5e1167e86a4087744884d30e05066acb, type: 2}
